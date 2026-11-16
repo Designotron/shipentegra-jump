@@ -1,0 +1,17 @@
+{
+  "name": "ShipEntegra Jump",
+  "short_name": "SE Jump",
+  "description": "ShipEntegra Jump — kargo koşusu, e-ihracat temalı mini oyun.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#03a7c5",
+  "theme_color": "#03a7c5",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
